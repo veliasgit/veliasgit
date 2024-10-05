@@ -7,7 +7,6 @@
 
 [![MP3 Converter 🎧](https://img.shields.io/badge/🎧MP3-37a779?style=for-the-badge)](https://mp3convert.netlify.app)
 [![Link Tree 🌱](https://img.shields.io/badge/🌱Lnktree-37a779?style=for-the-badge)](https://lnktree.netlify.app)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d49f5e9b-a03e-4a8b-9734-f07b6d046a49/deploy-status)](https://app.netlify.com/sites/lnktree/deploys)
 
 ### 🔧 Technologies and Tools I Use:
 <p align="left">
